@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently learning **Java**   
+  - 🔭 I’m currently learning **Java**   
  
-- 🌱 I love **cars** and **technology**
+  - 🌱 I love **cars** and **technology**
 
-- ⚡ Fun fact: my dog is a **Jack Russel**
+  - ⚡ Fun fact: my dog is a **Jack Russel**
 
 
 
