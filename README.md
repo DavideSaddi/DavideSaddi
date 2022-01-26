@@ -3,7 +3,7 @@
 
   - 🔭 I’m currently learning **Java**   
  
-  - 🌱 I love **cars** and **technology**      <img align="left" width="200" height="200" src="https://c.tenor.com/yA5R1AMuuBAAAAAC/car-drift.gif">
+  - 🌱 I love **cars** and **technology**      <img align="right" width="200" height="200" src="https://c.tenor.com/yA5R1AMuuBAAAAAC/car-drift.gif">
 
   - ⚡ Fun fact: my dog is a **Jack Russel**
 
