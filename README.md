@@ -1,6 +1,6 @@
 ### Hi there, I'm Davide 👋
 
-- 🔭 I’m currently learning **Java**         ![car](/https://c.tenor.com/yA5R1AMuuBAAAAAC/car-drift.gif)
+- 🔭 I’m currently learning **Java**         ![car](https://c.tenor.com/yA5R1AMuuBAAAAAC/car-drift.gif)
 - 🌱 I love **cars** and **technology**
 - ⚡ Fun fact: my dog is a **Jack Russel**
 
