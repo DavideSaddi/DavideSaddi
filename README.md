@@ -11,7 +11,7 @@
   - ⚡ Fun fact: my dog is a **Jack Russel**
 
 
-
+curl -i https://api.github.com/repos/masnun/torrent-tweeter/commits
 <!--
 **DavideSaddi/DavideSaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
