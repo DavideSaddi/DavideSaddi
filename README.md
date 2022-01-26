@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Davide 👋
 
 - 🔭 I’m currently learning Java 
-- 🌱 I love cars and technology
-- ⚡ Fun fact: My dog is a Jack Russel
+- 🌱 I love **cars** and **technology**
+- ⚡ Fun fact: My dog is a **Jack Russel **
 
 
 
