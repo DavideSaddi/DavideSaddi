@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Java 
-⚡ Fun fact: My dog is Jack Russel
+⚡ Fun fact: My dog is a Jack Russel
 
 <!--
 **DavideSaddi/DavideSaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
