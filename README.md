@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently learning **Java** 
 - 🌱 I love **cars** and **technology**
-- ⚡ Fun fact: My dog is a **Jack Russel**
+- ⚡ Fun fact: my dog is a **Jack Russel**
 
 
 
