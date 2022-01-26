@@ -11,7 +11,7 @@
   - ⚡ Fun fact: my dog is a **Jack Russel**
 
 
-[![Davide's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideSaddi)](https://github.com/anuraghazra/github-readme-stats)
+[![Davide's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideSaddi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DavideSaddi/DavideSaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
