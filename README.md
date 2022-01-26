@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Davide 👋
 
-<img align="right" width="200" height="200" src="https://c.tenor.com/yA5R1AMuuBAAAAAC/car-drift.gif">
+<img align="justify" width="200" height="200" src="https://c.tenor.com/yA5R1AMuuBAAAAAC/car-drift.gif">
 
 - 🔭 I’m currently learning **Java**   
  
