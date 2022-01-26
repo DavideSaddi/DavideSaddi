@@ -1,6 +1,6 @@
 ### Hi there, I'm Davide 👋
 
-<img align="left" width="100" height="100" src="https://c.tenor.com/yA5R1AMuuBAAAAAC/car-drift.gif">
+<img align="right" width="100" height="100" src="https://c.tenor.com/yA5R1AMuuBAAAAAC/car-drift.gif">
 
 
 - 🔭 I’m currently learning **Java**        
