@@ -2,6 +2,7 @@
 
 <img align="left" width="100" height="100" src="https://c.tenor.com/yA5R1AMuuBAAAAAC/car-drift.gif">
 
+
 - 🔭 I’m currently learning **Java**        
 - 🌱 I love **cars** and **technology**
 - ⚡ Fun fact: my dog is a **Jack Russel**
