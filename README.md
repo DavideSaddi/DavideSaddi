@@ -1,6 +1,6 @@
 ### Hi there, I'm Davide 👋
 
-- 🔭 I’m currently learning Java 
+- 🔭 I’m currently learning **Java** 
 - 🌱 I love **cars** and **technology**
 - ⚡ Fun fact: My dog is a **Jack Russel **
 
