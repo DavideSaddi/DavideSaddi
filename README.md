@@ -8,7 +8,7 @@
  
   - 🌱 I love **cars** and **technology**         
 
-  - ⚡ Fun fact: my dog is a **Jack Russel**
+  - ⚡ Fun fact: my dog is an old **Jack Russel**
 
 
 [![Davide's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideSaddi&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
